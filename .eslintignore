@@ -1,0 +1,5 @@
+build/*.js
+config/*.js
+src/common/js/*.js
+src/api/sha1.js
+src/components/home/home.vue
